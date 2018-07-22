@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Wall from './Done.png'
-import Row3 from './components/1_Row.js'
+import Wall from './images/Cover.png'
+import Row3 from './components/3_Row.js'
 
 class App extends Component {
   render() {

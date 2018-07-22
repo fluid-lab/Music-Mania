@@ -1,14 +1,14 @@
 import React from 'react';
-import Music from '../Logic.js'
-import Sound1 from '../audio/boom.wav'
-import Sound2 from '../audio/clap.wav'
-import Sound3 from '../audio/hihat.wav'
-import Sound4 from '../audio/openhat.wav'
-import Sound5 from '../audio/ride.wav'
-import Sound6 from '../audio/snare.wav'
-import Sound7 from '../audio/tink.wav'
-import Sound8 from '../audio/tom.wav'
-import Sound9 from '../audio/kick.wav'
+import Music from '../logic/Logic.js'
+import Sound1 from '../audio/row3/ride.wav'
+import Sound2 from '../audio/row3/clap.wav'
+import Sound3 from '../audio/row3/hihat.wav'
+import Sound4 from '../audio/row3/openhat.wav'
+import Sound5 from '../audio/row3/boom.wav'
+import Sound6 from '../audio/row3/snare.wav'
+import Sound7 from '../audio/row3/tink.wav'
+import Sound8 from '../audio/row3/tom.wav'
+import Sound9 from '../audio/row3/kick.wav'
 
 
 
