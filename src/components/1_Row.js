@@ -10,6 +10,11 @@ import Sound7 from '../audio/row1/7.wav'
 import Sound8 from '../audio/row1/8.wav'
 import Sound9 from '../audio/row1/9.wav'
 import Sound10 from '../audio/row1/10.wav'
+import Sound11 from '../audio/row1/11.wav'
+import Sound12 from '../audio/row1/12.wav'
+import Sound13 from '../audio/row1/13.wav'
+import Sound14 from '../audio/row1/14.wav'
+
 
 
 
@@ -28,7 +33,11 @@ export default class Row1 extends React.Component{
          <Music name="55" source={Sound7} />
        <Music name="56" source={Sound8} />
         <Music name="57" source={Sound9} />
-         <Music name="48" source={Sound10} />       
+         <Music name="48" source={Sound10} />   
+           <Music name="192" source={Sound11} />
+       <Music name="189" source={Sound12} />
+        <Music name="187" source={Sound13} />
+         <Music name="8" source={Sound14} />     
 
 
            </div>
