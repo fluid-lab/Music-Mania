@@ -4,6 +4,8 @@ Music is a wonderful resource for visually impaired children.Exposure to it enha
 
 **This game is being developed as a [Google Summer of Code 2018](https://summerofcode.withgoogle.com/) project under the [Inclusive Design Institute](https://inclusivedesign.ca/).**
 
+Play game [here](https://build-odeglceahu.now.sh/)
+
 
 ## To run
 *You'll need to have [git](https://git-scm.com/) and [node](https://nodejs.org/en/) installed in your system.*
