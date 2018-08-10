@@ -25,4 +25,4 @@ Open the web browser to `http://localhost:3000/`
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-You cam find some information on how to perform common tasks [here](https://github.com/riabhatia24/Music-Mania/blob/master/Create_React_App.md)
+You can find some information on how to perform common tasks [here](https://github.com/riabhatia24/Music-Mania/blob/master/Create_React_App.md)
