@@ -21,6 +21,20 @@ Play game [here](https://build-odeglceahu.now.sh/)
 
 Open the web browser to `http://localhost:3000/`
 
+## Running Locally with Docker
+
+You can serve the website from a [Docker](https://docs.docker.com/get-docker) container.
+
+Once you have Docker installed, run the following commands to build a Docker image and start a container:
+
+* Build the image: `docker build -t musicmania .`
+* Run the container: `docker run --name musicmania -p 8000:80 musicmania`
+
+The website will be available at [http://localhost:8000](http://localhost:8000)
+
+* To stop and remove the container: `docker rm -f musicmania`
+
+If you make changes to the code, repeat the steps to build the image and start a new container.
 
 
 ## Technical Details
