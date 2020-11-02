@@ -13,7 +13,7 @@ class App extends Component {
     return (
       <div id="app">
       <span className="Centerer"></span>
-    <img className="Centered" src={Wall}  />
+    <img className="Centered" src={Wall} alt="background" />
    
     <Row1 />
     <Row2 />
